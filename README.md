@@ -34,7 +34,7 @@ You can have a look and also download or fork it for your learning or interview 
 	-[Python Basic Programming](https://github.com/Shaah-i/Academia/tree/main/Assignments/Python%20Basic%20Programming)</br>
 	-[Python Advance](https://github.com/Shaah-i/Academia/tree/main/Assignments/Python%20Advance)</br>
 	-[Machine Learning](https://github.com/Shaah-i/Academia/tree/main/Assignments/ML)</br>
-	-[DSAR](https://github.com/Shaah-i/Academia/tree/main/Assignments)</br>
+	-[DSAR](https://github.com/Shaah-i/Academia/tree/main/Assignments/DSAR)</br>
 	-[Deep Learning](https://github.com/Shaah-i/Academia/tree/main/Assignments)</br>
 	-[Natural Language Processing](https://github.com/Shaah-i/Academia/tree/main/Assignments)</br>
 
